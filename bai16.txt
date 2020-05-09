@@ -1,0 +1,119 @@
+さら		cái đĩa
+キャッシュカード	thẻ ngân hàng, thẻ ATM
+しゅと		thủ đô
+であいます	gặp gỡ
+ジョギング	sự chạy bộ
+くび		cái cổ, cổ
+ボタン		cái nút, cúc áo
+ほどう		đường cho người đi bộ
+め		mắt, con mắt
+あんしょう	mật khẩu, mật mã
+わかい		trẻ, trẻ tuổi
+しやくしょ	văn phòng hành chính
+かみ		tóc
+ちゅうしょく	bữa cơm trưa
+あし		chân
+かえます		đổi, thay đổi
+かぜ		cảm cúm, cảm
+みがきます	đánh (răng)
+あらいます	rửa (tay, mặt)
+おします		ấn, giữ (nút)
+おふろ		bồn tắm
+シャワー		vòi hoa sen
+ながい		dài
+は		răng
+くもり		mây
+ワープロ		máy đánh chữ
+けしゴム		cục tẩy, cục gôm
+まず		trước hết, trước
+じんじゃ		đền thờ
+まちます		chờ, đợi
+しょうゆ		xì dầu, nước tương
+ひろい		rộng
+ざんぎょう	làm thêm giờ
+いれます		cho vào, lồng vào
+コート		áo khoác
+なくします	mất, đánh mất
+ほけんしょう	thẻ bảo hiểm
+みじかい		ngắn
+あびます		tắm
+はきます		quét (nhà)
+くすり		thuốc
+まずい		dở, không ngon
+
+1. V1 て～、V2 て～、～
+
+    * Giải thích:	 	 
+	+ Thể て trong mẫu câu này được dùng để nối các động từ với nhau.
+	+ Khi muốn nối từ hai động từ trở lên thì chúng ta đặt những động từ này theo thứ tự 
+                     của hành động diễn ra và dùng thể て để nối.
+	+ Thời của câu do thời của động từ cuối cùng quyết định.
+
+   * Khi sử dụng thể て để nối các động từ với nhau chúng ta có thể sử dụng thêm từ nối それから vào 
+        trước động từ thứ 3 để nhấn mạnh hơn thứ tự của hành động.
+
+2. V てから、～
+
+    * Cấu trúc	:	V1 てから、V2               
+    * Ý nghĩa	:	Sau khi làm hành động 1, thì làm hành động 2
+    * Giải thích	:	 
+	+ Mẫu câu này được dùng với ý nghĩa: sau khi thực hiện hành động 1 
+	       thì thực hiện hành động 2. 
+	+ Thời của câu do thời của động từ cuối cùng quyết định.
+	+ Mẫu câu này có ý nghĩa tương tự như từ nối それから.
+
+3. Cách nối các tính từ đuôi い
+
+	Cấu trúc	:	A- い → A-くて                      
+	Giải thích	:	
+		+ Dùng để nối hoặc liệt kê nhiều tính từ đuôi い trong câu với nhau.
+
+4. Cách nối danh từ và tính từ đuôi な
+
+	Cấu trúc	:	A-な → A-で                    
+			N　  → N-で
+	Giải thích	:	
+	       + Dùng で để nối, liệt kê các danh từ hoặc tính từ đuôi な trong câu với nhau.
+
+	Chú ý:
+	       + Khi nối tính từ đuôi い và tính từ đuôi な với nhau, nếu đặt tính từ đuôi い 
+	          lên trước thì biến đổi theo tính từ đuôi い, ngược lại đặt tính từ đuôi な 
+	          lên trước thì biến đổi theo tính từ đuôi な.
+
+5. Mẫu câu miêu tả đặc điểm của một chủ thể
+
+	Cấu trúc	:	Danh từ 1 は　Danh từ 2 が　Tính từ                    
+	Ý nghĩa	:	Cái gì đó như thế nào
+	Giải thích	:	 
+	        + Dùng để miêu tả một thuộc tính của chủ đề. 
+	        + Danh từ 1 là chủ đề của câu. Danh từ 2 là chủ ngữ được bổ nghĩa bởi tính từ.
+
+	Chú ý:
+	        + Danh từ 2 được sử dụng trong câu phải là một chủ đề, hoặc một sự vật sự việc 
+	            thuộc về Danh từ 1, chứ không phải danh từ cùng cấp độ, phạm vi.
+
+6. どうやって và どの
+
+    6.1. どうやって
+
+	Cấu trúc	:	どうやって + V                
+	Ý nghĩa	:	Làm thế nào ~
+	Giải thích	:	 
+	       +「どうやって」 là từ để hỏi về trình tự hoặc cách làm một việc gì đó. 
+	       +「やって」 là động từ thể て của động từ やります nghĩa là “làm”, 
+	           như vậy どうやって có nghĩa là “làm như thế nào?” .
+
+	Chú ý:
+	      + Người Nhật cũng sử dụng どのように để hỏi về trình tự, từ này mang sắc thái 
+	          lịch sự hơn どうやって.
+	      + どうして cũng được sử dụng để hỏi về trình tự, từ này xuất phát từ động từ します 
+	          được chuyển sang thể て là して. Tuy nhiên người Nhật tránh sử dụng từ này để 
+	          hỏi về cách thức hay trình tự vì nó thường bị hiểu nhầm là để hỏi về nguyên nhân, 
+	          lý do.
+
+   6.2. どの 
+	Cấu trúc	:	どの + Danh từ​            
+	Ý nghĩa	:	~ nào?
+	Giải thích	:	 
+	       +どの là từ nghi vấn của nhóm từ「この、その、あの」dùng để hỏi khi muốn xác định
+	          một đối tượng (vật hoặc người) nào đó trong một nhóm  có 3 đối tượng trở lên.

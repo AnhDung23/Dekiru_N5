@@ -1,0 +1,187 @@
+また	    lại, lần nữa
+エアコン	    máy điều hòa
+すきます	    trống, trống rỗng
+かぜ	    gió
+うわぎ	    áo khoác
+しお	    muối
+からだ	    cơ thể
+やめます	    bỏ, từ bỏ
+はなします    nói chuyện
+ちず	    bản đồ
+つり	    câu cá
+かみなり	    sấm sét, tia chớp
+なみ	    sóng
+しめます	    đóng (cửa, cửa sổ)
+おちます	    rơi, rụng (xuống)
+けします	    xóa, tẩy, tắt
+ちょうど	    vừa đúng, vừa chuẩn, khá là
+ふきます	    thổi (gió)
+さいふ	    cái ví
+つけます	    dính vào, đính vào
+すてます	    vứt, bỏ
+おもい	    nặng
+まっすぐ	    thẳng, đi thẳng
+しんごう	    đèn giao thông, đèn tín hiệu
+かるい	    nhẹ
+パスポート    hộ chiếu
+ふります	    rơi (mưa, tuyết)
+ゆっくり	    chậm, thong thả
+もちます	    cầm, nắm, có (gì đó)
+プリンター    máy in
+まがります    rẽ, quẹo
+あけます	    mở (cửa, cửa sổ)
+
+1.1. Động từ nhóm I
+	Là những động từ mà trước đuôi ます là chữ cái thuộc hàng い như 
+い、ち、り、き、ぎ、し…
+	
+        Ví dụ:
+	あいます	→	Gặp
+	とります	→	Lấy
+	はなします	→	Nói chuyện
+	いそぎます	→	Vội, gấp
+	てつだいます	→	Giúp (làm việc)
+      
+1.2. Động từ nhóm II
+	  Là những động từ mà trước đuôi ます là chữ cái thuộc hàng え như 
+け、せ、て, ね, め…
+
+       Ví dụ:
+	たべます	→	Ăn
+	ねます	→	Ngủ
+	とめます	→	Dừng, đỗ
+	おしえます	→	Nói, cho biết
+	かけます	→	Gọi (điện thoại)
+
+Đặc biệt:
+     Có một số động từ dù trước ます là chữ cái thuộc hàng い nhưng vẫn là động từ thuộc nhóm II.
+
+    Cách ghi nhớ một số động từ đặc biệt thuộc nhóm II:
+	Thức dậy	→	おきます
+	Nhìn thấy	→	みます
+	(Áo tắm) Rơi (xuống)	→	おります
+	Cảm thấy	→	かんじます
+	Tin tưởng	→	しんじます
+	Có thể	→	できます
+	Mượn	→	かります
+	Mặc	→	きます
+	Đủ	→	たります
+       → "Thức dậy nhìn thấy áo tắm rơi xuống, cảm thấy tin tưởng có thể mượn mặc đủ”.
+
+  Ngoài ra, các động từ mà phía trước ます chỉ có 1 âm tiết thì sẽ thuộc nhóm II 
+(Trừ 来ます và します).
+	みます	→	Nhìn
+	います	→	Có
+	にます	→	Ninh, nấu
+	きます	→	Mặc
+
+1.3. Động từ nhóm III
+	Nhóm III bao gồm động từ 来ます, します và các danh động từ có chứa đuôi します.
+	Danh động từ được tạo thành bởi 2 chữ Hán hoặc chữ Katakana kết hợp với đuôi します. 
+Nếu bỏ đuôi します thì phần đằng trước sẽ trở thành danh từ và giữ nguyên nghĩa gốc.
+    
+        Ví dụ:
+	きます		→	Đến
+	べんきょうします	→	Học
+	りょこうします	→	Đi du lịch
+	コピーします	→	Copy
+
+2. Cách chia động từ thể て
+     2.1. Động từ nhóm I
+	Cấu trúc	:	〜 います		
+			〜 ちます	→	〜って
+			〜 ります
+
+	Cấu trúc	:	〜 みます		
+			〜 にます	→	〜んで
+			〜 びます	
+
+	Cấu trúc	:	〜 きます	→	〜いて
+	
+   Chú ý:
+        Động từ いきます khi chuyển sang thể て sẽ biến thành いって.
+
+   2.2.  Động từ nhóm II
+
+	Cấu trúc	:	V ( bỏ ます)	→  	V て
+
+  Chú ý: 
+        おきます tuy kết thúc là き nhưng là động từ đặc biệt thuộc nhóm II, khi chuyển về thể て 
+sẽ trở thành おきて.
+
+   2.3. Động từ nhóm III
+
+	Cấu trúc	:	V します	→  	V して
+
+
+** 1. Cấu trúc sai khiến hoặc đưa ra lời khuyên
+
+   Cấu trúc  :	Vて　ください   
+   Ý nghĩa	  :	Hãy làm ~
+   Giải thích :	 
+        -Mẫu câu này dùng để sai khiến hoặc đưa ra lời khuyên cho đối phương hay khích lệ họ làm 
+một hành động gì đó.
+
+  * Chú ý:
+     -Cấu trúc này không được sử dụng đối với cấp trên hoặc người hơn tuổi. Khi xác định được chủ 
+thể của hành động, chúng ta sẽ sử dụng mẫu câu  N は　Vて　ください.
+
+** 2.  Vて　います
+
+
+   Cấu trúc  :	N (người) は　+　Vて　+　います  
+   Ý nghĩa    :	Ai đó đang ~
+   Giải thích :	 
+     -Cấu trúc này được sử dụng để nói về hành động hay sự việc đang được tiến hành, đang tiếp diễn
+ hoặc dùng để diễn tả một trạng thái.
+  * Chú ý:
+     -Với dạng khẳng định, chúng ta sử dụng cấu trúc  Vて+ います. Khi chuyển sang dạng phủ định 
+thì sẽ thành Vて+ いません.
+
+** 3. Cấu trúc đưa ra lời đề nghị giúp đỡ với người khác
+
+
+   Cấu trúc   :	Vます　+　ましょうか​  
+   Ý nghĩa	   :	Để tôi làm ~ nhé
+   Giải thích :	 
+     -Cấu trúc này được dùng để đưa ra lời đề nghị giúp đỡ người khác.
+     -Chủ thể thực hiện hành động là bản thân người nói.
+
+*** 1. Cách sử dụng của trợ từ が
+	Cấu trúc	:「Câu1」が、「Câu2」
+ Giải thích	:	 
+     Trong trường hợp này「が」không mang ý nghĩa là “nhưng” mà chỉ đơn thuần mang ý nghĩa 
+nối tiếp .
+
+Ví dụ:
+1.  しつれいですが、お名前なまえは？
+
+     Xin lỗi, tên anh là gì?
+
+2.  すみませんが、これを　捨すてて　ください。
+
+     Xin lỗi, làm ơn vứt cái này giúp tôi.
+
+* 1.2. Dùng để miêu tả hiện tượng tự nhiên
+
+	Cấu trúc	:「Danh từ」が「Động từ」​
+ Giải thích	:	 
+   「が」còn dùng để miêu tả những hiện tượng tự nhiên, không nằm trong tầm kiểm soát của 
+con người.
+ 
+Ví dụ:
+1.  あめが　ふって　います。
+
+     Trời đang mưa.
+
+2.  かぜが　ふきます。
+
+     Gió thổi.
+
+3.  かみなりが　おちます。
+
+     Sấm đánh.
+
+4.  なみが　ぶつかって　います。
+
+     Sóng đang vỗ.

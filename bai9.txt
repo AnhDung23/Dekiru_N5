@@ -1,0 +1,38 @@
+ごしゅじん  chồng chị/em (chồng người khác)
+おくさん	   vợ (của người khác)
+つま	vợ(của mình)
+おっと	chồng
+だいたい	    đại khái, đại thể
+わかります    hiểu, biết
+うた	bài hát
+ようじ	công việc riêng, việc bận
+さんぽします    đi dạo, tản bộ
+からい	cay
+もんだい	vấn đề, câu hỏi
+こども	đứa bé, trẻ em
+こたえ	câu trả lời, đáp án
+ローマじ   chữ Latin
+たくさん	nhiều
+ざんねん	tiếc nuối, đáng tiếc
+やくそく	lời hứa, có hẹn
+
+**
+	N　が　すきです /じゃありません。　  => Thích cái gì. / ko thích
+	N　が　きらいです/じゃありません。   => Ghét cái gì. / ko ghét
+	N　が　じょうずです/じゃありません。=> Giỏi cái gì.  / ko giỏi
+	N　が　へたです/じゃありません。　　=> Dở/kém cái gì. / ko dở
+
+**
+	N　が　ありますか。	　　　=> Có cái gì.
+	N　が　わかりますか。       => Hiểu/ biết cái gì.
+	         よく　　　			=> Hiểu rõ
+	　　　だいたい　　			=> Hiểu đại khái
+	　　　すこし　　　　+　　わかります　    => Hiểu một chút
+	　　　あまり			=> Không hiểu mấy
+	　　　ぜんぜん			=> Hoàn toàn không hiểu
+
+**
+	S1 から、S2　=> Vì S1 nên S2
+**
+	どうして/ なぜ～か。　=> Tại sao...
+　	～から。		   => Vì...

@@ -1,0 +1,117 @@
+**Đếm đồ vật nói chung:
+	1：ひとつ
+	2：ふたつ
+	3：みっつ
+	4：よっつ
+	5：いつつ
+	6：むっつ
+	7：ななつ
+	8：やっつ
+	9：ここのつ
+	10：とお
+	? ： いくつ
+
+**Đếm máy móc (máy móc, xe, tv...):
+	1：いちだい	
+	2：にだい
+	3：さんだい
+	4：よんだい
+	5：ごだい
+	6：ろくだい
+	7：ななだい
+	8：はちだい
+	9：きゅうだい
+	10：じゅうだい
+	？：なんだい
+
+**Đếm người:
+	1：ひとり
+	2：ふたり
+	3：さんにん
+	4：よにん
+	5：ごにん
+	6：ろくにん
+	7：しちにん/ななにん
+	8：はちにん
+	9：くにん/きゅうにん
+	10：じゅうにん
+	?： なんにん
+   vd:  きょうだいは　2人　です。   => Bao gồm cả bản thân mình
+　　　きょうだいは　2人　います。=> Không bao gồm bản thân mình
+
+**Đếm vật mỏng (giấy, tem, áo,...):
+	1：いちまい
+	2：にまい
+	3：さんまい
+	4：よんまい
+	5：ごまい
+	6：ろくまい
+	7：ななまい
+	8：はちまい
+	9：きゅうまい
+	10：じゅうまい
+	？：なんまい
+
+
+**　Đếm quyển sách,...:
+	～さつ
+
+** Đếm thời gian:
+	～時間　（じかん）       : đếm số giờ
+	～日　   （にち）	    : đếm số ngày
+	～週間　（しゅうかん） : đếm số tuần
+	～ヶ月　（かげつ）	    : đếm số tháng
+	～年　（ねん）	    : đếm số năm
+
+	どのくらい  :  mất bao lâu
+
+** Đếm số lần:
+	～回　（かい）
+	？：なんかい
+
+	Số lượng từ (chỉ thời gian) + に　～回　+　V
+	＝＞ Trong ～giờ/ngày/tháng/năm... làm ～lần. 
+
+**Đếm động vật nhỏ:
+	1：いっぴき
+	2：にひき
+	3：さんびき
+	4：よんひき
+	5：ごひき
+	6：ろっぴき
+	7：ななひき
+	8：はっぴき
+	9：きゅうひき
+	10：じゅっぴき
+	？：なんびき
+
+バイク	xe máy, xe mô tô
+カレー	món cari
+テスト	bài kiểm tra
+アイスクリーム   kem
+デート	cuộc hẹn hò
+ふなびん	vận chuyển đường thủy
+あね	chị gái(của mình)
+ひとり	1 mình, 1 người
+ふたり	2 người
+つかれます    mệt, mệt mỏi
+おとうと	em trai(của mình)
+みず	nước, thủy
+きょうだい    huynh đệ, anh em
+しまい	chị em gái
+がいこく	nước ngoài
+いってらっしゃい	Anh/chị đi rồi về nhé	
+はがき	bưu thiếp
+そくたつ	chuyển phát nhanh
+きって	tem, phiếu	
+おこないます   tổ chức, tiến hành
+みんな	mọi người
+かきとめ	gửi đảm bảo
+れきし	lịch sử　
+
+**Lượng từ + だけ／Danh từ + だけ
+ =>  だけ là một hậu tố được đặt sau các danh từ hay lượng từ 
+để nhấn mạnh rằng số lượng rất ít, nghĩa là “chỉ có thế, không 
+nhiều hơn thế, không có cái nào khác”.
+
+**　～さつ

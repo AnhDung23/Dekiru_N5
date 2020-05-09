@@ -1,0 +1,29 @@
+ぜんめん	mặt trước
+うら	phía sau, đằng sau, mặt sau
+ひだり	bên trái
+みぎ　	bên phải
+おく	trong góc
+みち	con đường
+ねこ	con mèo
+いぬ	con chó
+とり	con chim
+ちかく	gần, lân cận
+チリソース  tương ớt
+かいぎ	cuộc họp
+はこ	cái hộp
+スイッチ	công tắc
+まど	cửa sổ
+フィルム	phim, tấm film
+せんぱい	tiền bối, đàn anh
+こうはい	hậu bối, đàn em
+ベッド	giường
+でんち	pin
+ひきだし	ngăn kéo
+たな	giá, kệ
+のりば	bến xe
+ストーブ	lò sưởi, lò nướng
+
+*** 
+	N1　 や　N2　（など） liệt kê một loạt danh từ
+   vd:  れいぞうこのなかに　くだものやミルクやたまご（など）が　あります。 　
+	=> Trong tủ lạnh có những thứ như là trái cây, sữa, trứng...

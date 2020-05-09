@@ -1,0 +1,53 @@
+さびしい　        cô đơn, buồn chán
+だします	        gửi(thư), rút(tiền), nộp(bài tập)
+とうろく	        sự đăng ký
+あそびます        chơi
+プール	        bể bơi
+かわきます        khô, khát
+とこや	        tiệm cắt tóc
+とおい	        xa(khoảng cách xa xôi)
+てんぷら	        tempura(món ăn tẩm bột)
+かいものします  mua sắm
+けっこんします  kết hôn
+スキー	         trượt tuyết
+おります	         xuống(xe, cầu thang)
+のります	         lên, đi lên(xe, cầu thang)
+りゅうかく         việc du học, đi học ở nước ngoài
+けんがくします  tham quan(học tập)
+むかえます  đón
+おそい	  chậm trễ, muộn
+ほしい	  muốn
+はいります  vào(phòng, nhà, quán...)
+どこか	  chỗ nào đó
+およぎます  bơi
+しょくじ	bữa ăn
+コピー	sao chép
+おいのり	cầu nguyện, lời cầu nguyện
+いたい	đau, đau đớn
+のど	cổ họng
+ちかい	gần, ổ gần, sắp tới, không xa
+でます	ra, ra khỏi
+おなか	bụng
+けいざい	kinh tế
+うみ	biển
+
+1: Câu khẳng định:   わたしは　Danh từ  が　ほしいです。 => Tôi muốn có ...
+    Câu phủ định:       わたしは　Danh từが　ほしくないです
+    Câu nghi vấn:       Danh từ が　ほしいですか。
+
+2: Câu khẳng định:   Danh từ  が + V (xますx) + たいです。=>  Muốn làm gì đó
+    Câu phủ định:       Danh từ が + V たくない​です。 =>  Không muốn làm gì đó
+
+3: Mẫu câu "Đi (đến hoặc về) đâu để làm gì":
+
+	N1 (địa điểm) + へ  +  V (xますx)  +  に  +  行きます
+ 					  来ます
+					   帰ります
+
+4: Động từ thể hiện hướng chuyển động
+     **Trợ từ「に」được dùng với các động từ thể hiện hướng đi vào đâu đó như「はいります」
+“đi vào”「のります」“lên (xe)”.
+
+     **Trợ từ「を」được dùng với các động từ thể hiện hướng đi ra khỏi đâu đó như「でます」
+  "ra khỏi"「おります」“xuống (xe)”.
+

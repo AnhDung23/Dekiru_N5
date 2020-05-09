@@ -1,0 +1,153 @@
+なる		reo, kêu lên
+きかい		máy móc
+とぶ		bay
+けいさつ		cảnh sát
+かゆい		ngứa ngáy
+かど		góc
+なれる		quen với, thường
+さわる		sờ, chạm
+はいしゃ		nha sĩ
+おいのり		lời cầu nguyện
+デザイン		sự thiết kế
+おつり		tiền thừa, tiền trả lại khi mua hàng
+つまみ		núm vặn, nắm đấm cửa
+ちゅういする	chú ý, cẩn thận
+たてもの		tòa nhà
+まける		thua, bại trận
+ひろう		nhặt, nhặt lên
+かぞえる		đếm, tính
+うごく		hoạt động
+かんじ		sự cảm thấy, cảm nhận
+そら		bầu trời, trời
+ほけんしょう	thẻ bảo hiểm
+タマネギ		củ hành, hành tây
+なみだ		nước mắt
+わたる		băng qua, đi qua
+かんたん		đơn giản, dễ dàng
+とまる		trọ lại, ở lại
+パイナップル	thơm, khóm, dứa
+おと		âm thanh
+せいじ		chính trị
+きをつける	chú ý, cẩn thận
+じゆう		tự do
+うまれる		sinh ra, được sinh ra
+こうさてん	ngã tư, giao lộ
+けいたい		sự mang theo, sự đem theo
+ノーベルしょう	giải Nobel
+
+1．～とき、～
+     Cấu trúc:
+	Vる／Vない 	 
+	A-い／A-な	＋	とき	
+	N の    	 	 
+     Ý nghĩa: Khi ～, lúc ～ 
+     Giải thích:
+         +)「とき」 có chức năng giống như một danh từ dùng để nối hai mệnh đề của câu.
+         +)「とき」 biểu thị thời điểm mà trạng thái, động tác hay hiện tượng được diễn ra ở mệnh đề 
+               sau.
+
+    Ví dụ:
+	1.  かれは　わかい　とき、よく　はたらきました。
+	     -> Khi còn trẻ, ông ấy đã làm việc chăm chỉ.
+
+    Chú ý:
+      +) Thì của tính từ, danh từ bổ nghĩa cho とき không phụ thuộc vào thời của câu chính mà 
+           phụ thuộc vào mệnh đề phía sau.
+
+2.  Động từ thể nguyên dạng／ động từ thể た + とき、～
+
+    Cấu trúc:	
+	Động từ thể nguyên dạng (Vる)　　
+					＋	とき
+	Động từ thể quá khứ (Vた)　
+
+   Giải thích:
+        +) V る＋とき thì mệnh đề đứng trước nó sẽ biểu thị một động tác, trạng thái trước khi 
+             diễn ra hay đang diễn ra và chưa kết thúc.
+        +) V た＋とき  thì mệnh đề trước nó sẽ biểu thị động tác hay trạng thái đã kết thúc, 
+             hoàn thành xong. Sau đó mệnh đề phía sau mới xảy ra.
+
+   Ví dụ:​
+	1.  国へ　帰る　とき、カバンを　買いました。
+	     -> Trước khi về nước tôi đã mua một cái túi xách.
+
+	2.  国へ　帰った　とき、カバンを　買いました。  
+	     -> Sau khi về nước tôi đã mua một cái túi xách.
+
+  * Mở rộng:
+        V1 る + とき、V2  = V1 前に、V2
+        V1 た + とき、V2  = V1 後(あと)で、V2
+
+	1.  部屋を　出る　とき、けいたいが　なりました。
+	     -> Lúc ra khỏi phòng thì chuông điện thoại kêu.
+
+	⇔ 部屋を　出る　前まえに、けいたいが　なった。
+	     -> Trước khi ra khỏi phòng thì điện thoại kêu.
+
+	2.  部屋を　出た　とき、けいたいが　なりました。
+	     Ra khỏi phòng thì chuông điện thoại kêu.
+
+	⇔ 部屋を　出た　後で、けいたいが　なった。
+	     Sau khi ra khỏi phòng thì điện thoại kêu.
+
+3.  Động từ thể nguyên dạng (Vる) と、～
+
+     Ý nghĩa	:	~Hễ mà ~, thì ~／Cứ ~, thì ~
+     Giải thích	:	 
+          +)「と」nối hai mệnh đề của câu để biểu thị một kết quả chắc chắn sẽ xảy ra của một
+                hành động nào đó.
+          +) Mệnh đề đứng trước 「と」 biểu thị hành động, và mệnh đề đằng sau biểu thị kết quả 
+               của hành động đó.
+
+    Ví dụ:
+	1.  左へ　まがると、ゆうびんきょくが　あります。 
+     	     -> Rẽ trái là thấy bưu điện.
+
+	2.  この　ボタンを　おすと、おつりが　でます。　
+    	     -> Ấn cái nút này thì tiền thừa sẽ ra.
+
+	3.  パイナップルを食べると、口の中がかゆくなります。
+     	     -> Hễ mà ăn dứa thì sẽ bị ngứa miệng.
+   Chú ý:
+       +) Vì と dùng để biểu thị một kết quả tất yếu nên đi sau nó sẽ không thể là mệnh đề 
+            biểu thị ý muốn, nguyện vọng, yêu cầu hay lời mời.
+
+	1.  時間が　あると、映画を　見に　行きたいです。  
+	     Khi có thời gian thì tôi muốn đi xem phim
+	→ Sai
+
+	2.  お金が　あると、お金を　かしても　いいですか。
+	     Nếu có tiền bạn có thể cho tôi mượn được không?
+	→ Sai
+
+4.  Danh từ  が Tính từ / Động từ
+
+     Giải thích:
+          +)「が」đứng sau chủ thể khi diễn tả một trạng thái hoặc một tình huống nào đó.
+
+    Ví dụ:
+	1.  パソコンの　がめんが　大きいです。
+	     -> Màn hình máy tính lớn.
+
+	2.  電気が　明るく　なります。      
+     	     -> Điện đã sáng hơn.
+
+	3.  かのじょの　きぶんが　よくなりました。
+ 	    -> Tâm trạng của cô ấy đã trở nên tốt hơn.
+
+5.  Danh từ (địa điểm ) を Động từ (chuyển động)
+
+     Giải thích:
+          +) Trợ từ「を」 để biểu thị địa điểm mà người hoặc vật đi qua.
+          +) Các động từ chuyển động được sử dụng trong trường hợp này như: 
+             「さんぽします、わたります、あるきます、はしります、...」 .
+
+     Ví dụ:
+	1.  公園を　ジョギングします。
+	     -> Tôi chạy bộ ở công viên.
+
+	2.  こうさてんを　右へ　まがります。   
+	     -> Tôi rẽ phải ở ngã tư.
+
+	3.  はしを　わたります。
+	     -> Tôi băng qua cầu.

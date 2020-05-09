@@ -1,0 +1,116 @@
+すぐ		ngay, ngay lập tức
+ぬぎます		cởi (quần áo, giày)
+もってきます	mang đến
+しりょう		tài liệu
+たいせつ		quan trọng, quý báu
+かんじ		chữ hán, hán tự
+きんえん		sự cấm hút thuốc
+てつだいます	giúp đỡ
+よびます		gọi (tên, taxi)
+げんきん		tiền mặt
+したぎ		quần áo lót
+チェックアウト	trả phòng (checkout)
+とめます		dừng, đỗ
+かえます		thay đổi, biến đổi
+もっていきます	mang đi
+しんぱいします	lo lắng
+おぼえます	nhớ
+だいじょうぶ	không vấn đề, không sao cả
+ざんぎょうします	làm thêm (giờ)
+わすれます	quên
+かちょう		trưởng phòng
+りゅうがくせい	du học sinh
+ねつ		cơn sốt, bệnh sốt
+びょうき		bệnh tật, đau ốm
+かくにん		sự xác nhận
+でかけます	ra ngoài, đi ra khỏi
+
+1. Vないで　ください
+
+        Cấu trúc	:	Vない　+　でください  
+        Ý nghĩa	:	Xin đừng ~ ／Đừng ~
+        Giải thích	:	 
+              Cấu trúc này dùng để yêu cầu, đưa ra mệnh lệnh cho người khác đừng làm một việc gì đó.
+
+       Chú ý:
+            Trong nhiều trường hợp, Vないで　ください còn mang theo ý nghĩa khuyên bảo đối phương 
+             đừng làm, không nên làm một việc gì đó.
+
+2. Cách nhấn mạnh vào tân ngữ
+
+       + Thông thường, ta đặt tân ngữ trước trợ từ を, và chủ ngữ thì đặt trước trợ từ は.
+       + Khi muốn nhấn mạnh vào tân ngữ, ta có thể đặt tân ngữ lên đầu câu và đi kèm với は 
+       để biểu thị chủ đề.
+
+	Ví dụ:
+	    あそこに　えを　おいても　いいですか。
+
+     	    Tôi đặt bức tranh ở đó có được không? 
+
+ 	    → えは　あそこに　おいても　いいです。
+
+	     Bức tranh thì đặt ở đó cũng được. 
+3. までに
+
+       Cấu trúc	:	N (thời gian)　+　までに　+　V  
+       Ý nghĩa	:	Trước khi ~ thì
+       Giải thích	:	 
+            Danh từ trước までに là một mốc thời gian được chỉ định sẵn, còn động từ phía sau 
+            chỉ hành động phải được làm và hoàn thành trước thời điểm đó.
+
+      Chú ý:​	   Phân biệt まで và までに
+	+ まで biểu thị thời điểm kết thúc của hành động, hành động được nhắc đến sẽ diễn ra 
+                    liên tục cho đến thời điểm đứng trước まで.
+	+ Với までに, hành động chỉ diễn ra trong một thời điểm nhất định, điểm kết thúc của 
+                    hành động đó có thể không trùng với thời điểm đứng trước までに.
+   vd:
+	1. 3時から　 6時まで　としょかんで　本を　読みます。 
+    	    Từ 3h đến 6h tôi đọc sách ở thư viện. 
+
+	2. 6時までに　としょかんへ　行って　ください。
+    	    Trước 6h hãy đến thư viện.
+
+4. Vなければ　なりません
+
+     Cấu trúc	:	Vない　+　ければ　なりません   
+     Ý nghĩa	:	Phải ~
+
+     Giải thích	:	 
+            + Cấu trúc này được phủ định hai 2 lần nên sẽ mang ý khẳng định. Biểu thị rằng một 
+               đối tượng phải làm việc gì đó mà không phụ thuộc vào ý muốn của đối tượng đó.
+           + Mẫu câu này mang sắc thái bắt buộc mạnh mẽ hơn nhiều so với Vて　ください.
+           + Vて　ください là cách nói để đối phương hành động, còn Vなければ　なりません còn 
+              nói về hành động mà mình phải thực hiện chứ không chỉ mang ý nghĩa yêu cầu.
+
+  Chú ý:
+     Trong văn nói mang tính suồng sã, ta có cách nói ngắn hơn nhiều so với 
+     なければ　なりません, đó là なきゃ. Ta chỉ cần chia động từ ở thể ない (ない bỏ い) rồi cộng  
+     trực tiếp với きゃ.
+
+	Ví dụ:
+   		1.  １時間ぐらい　待たなきゃ。
+    		      Tôi phải đợi khoảng 1 tiếng đồng hồ.
+
+		2.  明日は　６時に　起きなきゃ。
+    		     Ngày mai tôi phải thức dậy lúc 6 giờ.
+
+     * Mở rộng:
+            Cấu trúc	:	Động từ thể ない　+　くては　いけません  
+ 	 	                 Động từ thể ない　+　と　いけません
+            Ý nghĩa	:	Phải ~
+            Giải thích	:	 
+	Hai cấu trúc này đều mang nghĩa bắt buộc, phải làm.
+	Với ないと　いけません, ta chia động từ về thể ない rồi thêm といけません.
+
+5. Vなくても　いいです
+
+	Cấu trúc	:	Vない　+　くても　いいです​ 
+	Ý nghĩa	:	Không phải làm ~ cũng được
+	Giải thích	:	 
+     	       Cấu trúc này biểu hiện rằng đối phương không cần, không phải làm một điều gì đó.
+		
+       Chú ý:
+          + Vても　いいです (Làm ~ cũng được) và Vなくても　いいです (Không làm ~ cũng được) 
+             đều không bắt buộc người nghe phải làm hay cấm đoán họ không được làm một điều gì đó.
+          + Hai mẫu câu này chỉ mang tính chất gợi ý hay cho phép, người nghe hoàn toàn có quyền 
+              lựa chọn hành động của mình.

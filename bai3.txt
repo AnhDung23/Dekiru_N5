@@ -1,0 +1,24 @@
+じむしょ	văn phòng
+でんき	đèn điện
+ちゅうしゃじょう   bãi đỗ xe
+アルコール  cồn, rượu	
+うりば	  quầy bán hàng
+かいぎしつ   phòng họp
+ロビー	hành lang, đại sảnh
+ネクタイ	cà vạt
+おてあらい　＝　トイレ  nhà VS
+しょくどう nhà ăn, phòng ăn
+たばこ	thuốc lá
+かいだん	cầu thang
+うけつけ　bộ phận tiếp tân, lễ tân
+カフェ	quán cafe　
+
+* Đếm
+	100	ひゃく
+	1000	せん	
+	10000	いちまん
+* Cách hỏi giá:
+ 	N + は　いくらですか。
+* Cách đưa ra yêu cầu ( muốn xem một vật nào đó)
+	N をみせてください。
+	＝＞ Hãy cho tôi xem N

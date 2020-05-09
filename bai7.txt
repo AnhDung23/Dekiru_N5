@@ -1,0 +1,79 @@
+しつれいします      xin thất lễ
+おみやげ	   quà lưu niệm
+おとうさん   ba người khác
+おかあさん   mẹ người khác
+ちち	   ba của mình
+はは	   mẹ của mình
+もらいます    nhận được
+ときどき	    đôi khi, thỉnh thoảng
+おくります    gửi đi
+かれし	    người yêu, bạn trai
+あげます	    tặng cho
+おしえます    dạy, nói cho biết
+メール	    mail, thư điện tử
+ならいます     học tập
+ファクス	     máy fax
+スプーン	     cái thìa, muỗng
+はし　　　　đũa
+プレゼント     quà tặng
+しゃちょう     giám đốc
+かけます	gọi (điện thoại)
+かします	cho mượn, cho vay
+かります	mượn, vay
+これから	từ giờ trở đi, từ bây giờ
+て	tay
+にもつ	đồ đạc, hành lý
+まだ	vẫn, vẫn chưa, mới, mới vừa
+クリスマス    lễ giáng sinh
+フォーク	dĩa, nĩa
+きっぷ	vé tàu, vé xe
+もう	đã, rồi
+おまつり　lễ hội
+
+****
+	N 　で　+　V
+	＝＞ Thực hiện hành động bằng phương tiện, công cụ gì.
+	なん　で　+　Vか。
+	＝>  Làm V bằng phương tiện, công cụ gì.
+
+*      ngôn ngữ 　で　＋　V
+	＝＞　thực hiện hành động V bằng ngôn ngữ nào
+	          diễn tả việc nói, viết,... bằng 1 ngôn ngữ cụ thể
+
+** 	N1は ...語　で　N2です
+	＝＞　Diễn tả ý nghĩa của một từ, một câu được nói 
+	         như thế nào bằng ngôn ngữ khác
+
+	N は ...語　で　なんですか。
+	＝＞　Hỏi từ N theo tiếng Anh, Nhật, Việt,... là gì
+
+****	N(người) + 　に　+　N　を　あげます。
+	   ＝＞  Tặng/cho ai đó vật 
+
+** (Mở rộng 6V thông dụng)
+	N(người) + 　に　+　N　を　V。
+	=> Làm việc gì cho ai
+			           　かきます　　　　 ->  viết gì cho ai
+			　　　　でんわをかけます  ->  gọi điện cho ai
+			　　　　おくります	         ->  gửi gì đó cho ai
+			　　　　かします	         ->  cho ai mượn cái gì
+			　　　　おしえます	         ->  dạy cái gì cho ai
+			              つくります	　　   -> làm gì cho ai
+			
+	=> Hỏi:  だれ + 　に　+　N　を　Vか。
+
+***	N(người) + 　に　+　N　を　もらいます。
+	＝＞　Nhận từ ai đó thông tin, đồ vật gì
+
+***(Mở rộng)
+	N(người) + 　に　+　N　を　V。
+      => Nhận/mượn/học từ ai cái gì.
+			　　　　もらいます　　nhận
+			　　　　かります	    mượn
+			　　　　ならいます	    học
+    => Hỏi:  だれ + 　に　+　N　を　Vか。
+
+***
+	もう　Vました。ー＞ Đã ～ rồi.
+	ー＞　 はい、しました。
+	ー＞　いいえ、まだです。

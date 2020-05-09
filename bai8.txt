@@ -1,0 +1,27 @@
+やさしい　dễ dàng, đơn giản
+わるい	xấu, không tốt
+へた	kém, dốt
+じょうず   giỏi, làm tốt
+ひま	  rảnh rỗi
+いそがしい　bận rộn
+おもしろい    hài hước, thú vị
+りょう	ktx, nhà ở tập thể
+せいかつ	cuộc sống, sinh hoạt
+ちかてつ	tàu điện ngầm
+しんせつ	tốt bụng, thân thiện
+ハンサム	đẹp trai, bảnh trai
+たのしい	vui vẻ, thích thú
+りっぱ	tuyệt vời, rực rỡ
+べんり	tiện lợi
+せまい	chật hẹp
+すてき	đẹp đẽ, đáng yêu
+くろい	màu đen
+くらい	tối tăm, ảm đạm
+げんき	khỏe mạnh
+
+***
+	「Mệnh đề 1」　+　が、　+　「Mệnh đề 2」
+	＝＞「Mệnh đề 1」nhưng mà「Mệnh đề 2」
+***
+	「Câu 1」。そして、「Câu 2」。
+	＝＞「Câu 1」. Và 「Câu 2」.

@@ -1,0 +1,56 @@
+せんしゅう   tuần trước 
+こんしゅう   tuần này
+らいしゅう   tuần sau
+にちようび   chủ nhật
+げつようび   thứ 2
+かようび       thứ 3
+すいようび    thứ 4
+もくようび    thứ 5
+きんようび    thứ 6
+どようび        thứ 7
+*れいじ	0 giờ
+＿じ＿ふん＿びょう　giờ, phút, giây
+そば	       mỳ soba	
+はじまります   bắt đầu
+おわります      kết thúc	
+はたらきます   làm việc
+かかります      tốn, mất (thời gian, tiền bạc,...)
+びよういん  thẩm mỹ viện
+ランチ	  bữa trưa
+おにぎり	  cơm nắm
+じゅぎょう  buổi học, giờ học
+デザート	   món tráng miệng
+やすみます   nghỉ ngơi
+ばんごう   số hiệu
+たいへん   vất vả, khó khăn
+デパート	cửa hàng bách hóa
+けんこう	sức khỏe
+ドラマ	phim truyền hình
+
+* Nói giờ kém:
+	～じ　＋　～ふん　＋　まえ　
+
+*　Vます　　－＞　Vません	(hiện tại, tương lai)
+*　Vました　ー＞　Vませんでした　（quá khứ)
+
+* thời điểm xảy ra 1 hành động:
+	N(thời gian cụ thể) +　に　+　V
+	thứ + (に)　＋　V
+
+* Cách nói số điện thoại
+	～の　でんわばんごうは　～です。
+	vd: sđt của tôi là 0121 307  3562
+	    => わたしのでんわばんごうは　0121の　307の　3562です。
+
+	＝＞　Câu hỏi：　～の　でんわばんごうは　なんばんですか。
+
+*　Xác nhận lại thông tin
+     Biểu thị sự thông cảm, đồng tình của người nói với người nghe
+	 => ～ね。
+
+*　Nhấn mạnh thông tin người nghe chưa biết
+     Nhấn mạnh ý kiến, sự phán đoán của người nói
+	=> ～よ。
+
+	ｖｄ：　A:　やすみはどようびですか。ー＞　ngày nghỉ là thứ 7 à?
+	　　　　B:　いいえ、にちようびですよ。ー＞ không, là chủ nhật cơ.

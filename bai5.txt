@@ -1,0 +1,24 @@
+せんしゅう   tuần trước
+こんしゅう　tuần này
+らいしゅう   tuần sau
+まいしゅう   mỗi tuần
+せんげつ       tháng trước
+こんげつ       tháng này
+らいげつ       tháng sau
+まいげつ       mỗi tháng
+きょねん       năm ngoái
+ことし          năm nay
+らいねん       năm sau
+まいねん       mỗi năm
+
+*ふるさと　quê
+
+* も　nhấn mạnh sự phủ định
+      vd:　どこもいきません
+         ー＞tôi ko đi đâu cả
+
+* N(phương tiện giao thông) + で　+　いきまし。。。
+　　－＞　Đi đâu bằng phương tiện gì
+ *** Ngoài ra で còn còn đc sử dụng để biểu thị cách thức tiến hành một việc gì đó
+     vd: 　　はしでごはんをたべます
+	ー＞Ăn cơm bằng đũa

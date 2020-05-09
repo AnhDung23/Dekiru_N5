@@ -1,0 +1,122 @@
+トレーニング	sự luyện tập, huấn luyện
+むすめ		con gái (của mình)
+ふとん		chăn, đệm
+めがね		mắt kính
+かぶる		đội
+やちん		tiền thuê nhà
+あかるい		sáng sủa, xinh tươi
+ミルク		sữa
+サービス		sự phục vụ, dịch vụ
+ヨーロッパ	Euro, châu Âu
+アパート		nhà chung cư
+いれる		pha (trà, cà phê)
+あとで		sau đó
+そんなに		đến thế, đến như thế
+セーター		áo len
+アイロン		bàn ủi
+りゅうがくせい	du học sinh
+サンダル		dép quai hậu
+ニンジン		cà rốt
+ロボット		robot
+オレンジ		trái cam
+メモ		ghi chú lại
+アルバイト	việc làm thêm
+はく		mặc (quần), xỏ (giày)
+かける		đeo (kính)
+ふとい		béo, mập
+きる		mặc (áo)
+ぼうし		nón
+せ		lưng, dáng
+けいけん		kinh nghiệm
+チャンス		cơ hội, thời cơ
+
+1.  Bổ nghĩa cho danh từ
+
+    1.1. Danh từ bổ nghĩa cho danh từ
+         Ví dụ:
+	わたしの　こいびと	→     Người yêu của tôi
+
+   1.2. Tính từ bổ nghĩa cho danh từ
+         Ví dụ:
+	有名な　人　	→	Người nổi tiếng
+
+   1.3. Động từ bổ nghĩa cho danh từ
+         Cấu trúc	:	Vる／Vた／Vない + N
+         Giải thích	:	
+              +) Để bổ nghĩa cho danh từ, ta chia động từ về thể thông thường và đặt trước danh từ. 
+       Ví dụ:
+	買う　うち　　　       →	Căn nhà sẽ mua
+	買わない　うち　	→	Căn nhà không mua
+	勉強している　大学	→	Trường Đại học đang học
+	見た　映画　　　　　→	Bộ phim đã xem
+
+2.  Bổ nghĩa cho danh từ bằng mệnh đề phụ
+
+  2.1.  Câu danh từ bổ nghĩa cho danh từ
+     +) Phần đứng trước bổ nghĩa cho danh từ luôn ở thể thông thường. Với câu danh từ, 
+          ta chỉ cần thay だ bằng の và cộng trực tiếp với danh từ.
+     
+    Ví dụ:
+         あの　ベトナム人で、りゅうがくせいの　かのじょの　名前は　何ですか。
+          -> Cô gái người Việt Nam và là du học sinh ấy tên là gì vậy?
+ 
+   2.2. Câu tính từ bổ nghĩa cho danh từ
+      +) Nếu là câu tính từ đuôi な kết thúc ở thể thông thường chúng ta bỏ だ, thay bằng な 
+           và cộng với danh từ, nếu là câu tính từ đuôi い thì giữ nguyên là い và cộng với danh từ.
+
+    Ví dụ:
+          かのじょは　あたまが　よくて、親切な　人です。
+          -> Cô ấy là một người thông minh và thân thiện.
+
+   2.3. Câu động từ bổ nghĩa cho danh từ
+      +) Với câu động từ bổ nghĩa cho danh từ, ta chia động từ kết thúc về thể thông thường và 
+           cộng với danh từ. Khi đưa vào làm mệnh đề bổ nghĩa, chủ ngữ của câu đó sẽ đi với trợ từ が.
+
+    Ví dụ:   
+	わたしと　映画館で　映画を　見た　友達です。　
+	-> Người bạn mà cùng tôi xem phim ở rạp.
+
+3.  Chức năng của thành phần định ngữ trong câu
+     +) Thành phần định ngữ (danh từ được bổ nghĩa bằng câu động từ) có thể được đặt ở nhiều 
+          vị trí trong câu, đóng nhiều vai trò trong thành phần của câu.
+
+   3.1. Câu có thành phần định ngữ làm chủ ngữ
+        Ví dụ:
+	かれが　はいている　くつは　イタリアの　くつです。
+ 	 -> Đôi giày mà anh ấy đang đi là giày Ý.
+
+   3.2. Câu có thành phần đinh ngữ làm vị ngữ
+        Ví dụ:
+	この　ジュースは　にんじんと　オレンジが　ある　ジュースです。
+                 -> Loại nước quả này là loại nước quả có cà rốt và cam.
+
+   3.3. Câu có thành phần định ngữ làm tân ngữ
+         Ví dụ:
+	日本人は　話す　ことが　できる　ロボットを　つくった。
+     	-> Người Nhật Bản đã chế tạo ra con rô bốt biết nói chuyện.
+
+4.  Những chú ý về câu chứa mệnh đề định ngữ
+
+     +) Khi câu động từ bổ nghĩa cho một danh từ thì chủ ngữ trong câu gốc khi chuyển sang 
+          mệnh đề bổ nghĩa được xác định bằng trợ từ 「が」.
+     +) Trong câu động từ, có thể lựa chọn bất kì một danh từ nào trong câu và chuyển câu 
+          thành mệnh đề bổ nghĩa cho danh từ đó.
+     +) Khi các danh từ trở thành từ được bổ nghĩa thì những trợ từ 「を, で, に」đi kèm với 
+          danh từ đó không cần thiết nữa.
+
+5.  Động từ thể nguyên dạng　じかん／やくそく／ようじ
+
+    Giải thích:
+        +) Động từ thể nguyên dạng 時間じかん để nói có hay không có thời gian làm một việc nào đó.
+        +) Động từ thể nguyên dạng 約束やくそく để nói rằng có hay không có một cuộc hẹn.
+        +) Động từ thể nguyên dạng 用事ようじ để nói rằng có chuyện, có việc cần làm nào đó.
+
+     Ví dụ:
+	1.  わたしは　アルバイトを　する　時間が　ありません。
+     	 -> Tôi không có thời gian để đi làm thêm.
+
+	2.  わたしは　友達と　映画を　見る　約束が　あります。
+	->  Tôi có hẹn đi xem phim với bạn.
+
+	3.  朝は　先生と　そうだんする　用事が　あります。
+	->  Buổi sáng tôi có chuyện thảo luận với giáo viên.

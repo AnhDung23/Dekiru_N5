@@ -1,0 +1,106 @@
+せんそう		chiến tranh
+じっしゅう	sự thực tập
+かんがえる	nghĩ, suy nghĩ
+やくにたつ	có tác dụng, có ích
+かたづける	dọn dẹp, lau dọn
+りゅうがくする	du học
+サイン		ký hiệu, ký tên
+ベル		cái chuông
+けいかく		kế hoạch, dự kiến, dự định
+そつぎょうする	tốt nghiệp
+つく		đến (ga, nhà hàng,...)
+がんばる		kiên trì, bền bỉ, cố gắng
+おせわになる	bị mắc nợ, mang ơn
+にゅうがくする	nhập học
+せんたくする	tuyển chọn, lựa chọn
+せんもん		chuyên môn
+じしん		động đất
+スカート		váy ngắn	
+やめる		bỏ, thôi, dừng lại
+ことば		từ ngữ, lời nói
+じぶん		tự mình
+けんきゅうせい	nghiên cứu sinh
+こわい		sợ, khiếp sợ
+こうじょう	nhà máy, công trường
+
+1. Thể thông thường (quá khứ) ら、~
+
+     Cấu trúc: 
+	V	→	V たら
+	A（い）	→	A かったら
+	A（な）	→	A だったら
+	N	→	N だったら
+
+	Ý nghĩa	:	Nếu ～ thì ～
+	Giải thích	:	 
+	      +) Mẫu câu biểu thị ý kiến, yêu cầu, lời mời ... (Cách nói giả định).
+	      +) Mệnh đề phía trước たら biểu hiện điều kiện.
+	      +) Thường đi với もし để nhấn mạnh giả thuyết của người nói.
+
+	1. もし　お金が　あったら、留学に　行きます。 	
+	     -> Nếu có tiền tôi sẽ đi du học.
+
+2. Động từ thể  たら、～
+
+	Ý nghĩa	:	Khi, sau khi
+	Giải thích	:	 
+	    +) Động từ phía trước たら là những hành động hoặc sự việc chắc chắn sẽ xảy ra 
+                         trong tương lai.
+	    +) Vế sau luôn chia ở thời hiện tại.
+
+	1.  大学を　そつぎょうしたら、どうする　つもりですか。
+	     -> Sau khi tốt nghiệp đại học, anh định làm gì?
+
+3. ても /で も、～
+
+       Cấu trúc:
+	Tính từ (い bỏ)く	＋　ても
+	Tính từ な		＋　でも
+	Danh từ		＋　でも
+	Động từ		＋　ても／でも
+	Động từ な(い bỏ) く	＋　ても
+
+	Ý nghĩa	:	Dù… cũng…
+	Giải thích	:	 
+	    +) Biểu thị hành động đáng ra phải làm nhưng không làm, một việc đáng phải xảy ra 
+	         nhưng không xảy ra.
+	    +) Thường dùng với いくら để nhấn mạnh với nghĩa "Dẫu có ~ bao nhiêu đi chăng nữa 
+	         thì vẫn ~".
+
+	Ví dụ:
+	    1.  いくら　高くても、買いたいです。
+	         -> Cho dù đắt thế nào thì tôi vẫn muốn mua.
+
+	    2.  雨でも　学校に　行きます。
+	          -> Dù trời mưa nhưng vẫn đi học.
+
+4. もし và いくら
+
+	Ý nghĩa	:	Nếu, cho dù
+	Giải thích	:	 
+	   +)「もし」được dùng với「～たら」để nhấn mạnh ý kiến của người nói trong điều kiện 
+                         được giả định.
+	   +)「いくら」được dùng với 「～ても」nhấn mạnh mức độ của điều kiện.
+
+      Ví dụ:
+	1.  もし　私が　あなただったら、そんなことを　しない。
+	     -> Nếu tôi là bạn, tôi sẽ không làm chuyện như vậy.
+
+	2.  いくら　食べても　太らない　ケーキです。
+	     -> Đây là loại bánh mà dù có ăn bao nhiêu cũng không sợ béo.
+
+5. Danh từ が
+
+            Giải thích: 
+	+) Trợ từ 「が」biểu thị chủ ngữ trong mệnh đề phụ với các mẫu câu dùng với 
+                     「～たら」「～ても」「～とき」「～と」「～まえに」.
+
+      Ví dụ:
+	1.  じしんが　起こったら、机の　下に　入って　ください。
+	     -> Nếu có động đất, hãy chui xuống gầm bàn.
+
+	2.  天気が　悪いとき、家で　コーヒーを　飲みながら、本を　読みます。
+	     -> Khi thời tiết xấu, tôi sẽ ở nhà vừa uống cà phê vừa đọc sách.
+
+	3.  先生が　来くる　前に、早く　教室を　かたづけて　ください。
+	     -> Trước khi thầy giáo đến, hãy mau dọn dẹp phòng học đi.
